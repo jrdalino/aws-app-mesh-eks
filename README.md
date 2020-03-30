@@ -123,3 +123,6 @@ $ kubectl delete crd virtualservices.appmesh.k8s.aws
 $ kubectl delete namespace appmesh-system
 $ kubectl delete namespace appmesh-inject
 ```
+
+## References:
+- https://docs.aws.amazon.com/app-mesh/latest/userguide/mesh-k8s-integration.html
