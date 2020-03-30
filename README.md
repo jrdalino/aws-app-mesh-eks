@@ -5,13 +5,12 @@
 - kubectl
 - jq
 
-## Step 1: Setup AppMesh as per
+## Step 1: Setup AppMesh
 - Create a Mesh and Virtual Service
 - Create a Virutal Node
 - Create a Virtual Router and Route
 - Create additional resources
 - Update Services
-
 
 ## Step 2: Install the Controller and Custom Resources
 - Attach AWSAppMeshFullAccess Policy to Kubernetes Worker Nodes
