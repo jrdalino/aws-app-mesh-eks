@@ -4,6 +4,7 @@
 - k8s >= 1.12
 - kubectl
 - jq
+- Setup AppMesh as per https://docs.aws.amazon.com/app-mesh/latest/userguide/appmesh-getting-started.html
 
 ## Step 1: Install the Controller and Custom Resources
 - Attach AWSAppMeshFullAccess Policy to Kubernetes Worker Nodes
